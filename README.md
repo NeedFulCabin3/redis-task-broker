@@ -1,6 +1,6 @@
 # Redis Task Broker
 
-> Reliable asynchronous task execution and background job orchestration powered by Python asyncio and Redis atomic list primitives.
+Reliable asynchronous task execution and background job orchestration powered by Python asyncio and Redis atomic list primitives.
 
 ## Overview / Value Proposition
 
